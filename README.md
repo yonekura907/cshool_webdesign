@@ -14,6 +14,8 @@
 * [タイポグラフィ](docs/05_Typography.md)
 * [ボタン](docs/04_Button.md)
 * [ナビゲーション](docs/06_Navigation.md)
+* [アイコン](docs/13_Icon.md)
+* [アプリアイコン](docs/14_IconApp.md)
 * [UX](docs/07_UX.md)
 
 &nbsp;
