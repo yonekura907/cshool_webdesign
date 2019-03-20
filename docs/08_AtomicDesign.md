@@ -14,6 +14,8 @@ WebサイトやスマートフォンアプリのデザインをUIコンポーネ
 
 ## コンポーネント
 
+UIのパーツを部品（コンポーネント）としてパーツの組み合わせでページができあがると考える。Sketchのシンボルもこの考え方に基づいている。
+
 
 &nbsp;
 &nbsp;
@@ -23,6 +25,10 @@ WebサイトやスマートフォンアプリのデザインをUIコンポーネ
 
 
 ![](img/atomic-design-process.png)
+
+
+&nbsp;
+
 ![](img/instagram-atomic.png)
 
 &nbsp;
