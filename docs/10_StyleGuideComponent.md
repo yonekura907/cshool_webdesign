@@ -7,6 +7,10 @@
 
 ![](img/styleguide_buttons.png)
 
+&nbsp;
+
+![](img/styleguide_buttons2.png)
+
 
 &nbsp;
 &nbsp;
@@ -46,6 +50,10 @@
 
 ![](img/styleguide_card.png)
 
+&nbsp;
+&nbsp;
+
+
 ## 視覚効果
 * 影と標高
 * 角の丸み
@@ -74,14 +82,4 @@
 
 
 
-
-## 参考
-
-* [Material Design](https://material.io/design/)
-* [Lightning by Salesforce](https://www.lightningdesignsystem.com/)
-* [Carbon by IBM](https://www.carbondesignsystem.com/)
-* [Trello Nachos](https://design.trello.com/)
-* [Polaris by Shopify](https://polaris.shopify.com/)
-* [Uber Design](https://www.uber.design/case-studies/rebrand-2018)
-* [Airbnb Design](https://airbnb.design/building-a-visual-language/)
-* [Invision Design System Manager](https://www.invisionapp.com/design-system-manager/)
+---

@@ -38,7 +38,7 @@ UIのパーツを部品（コンポーネント）としてパーツの組み合
 
 ![](img/atomic_atom.png)
 
-
+&nbsp;
 &nbsp;
 
 ### Lv2: 分子（Molecules）
@@ -47,12 +47,14 @@ UIのパーツを部品（コンポーネント）としてパーツの組み合
 ![](img/atomic_molecules.png)
 
 &nbsp;
+&nbsp;
 
 ### Lv3: 有機体 (Organisms）
 分子を組み合わせて、ナビゲーションやヘッダ・フッタなどが中・大グループを作ります。
 
 ![](img/atomic_organisms.png)
 
+&nbsp;
 &nbsp;
 
 ### Lv4: テンプレート (Templates)
@@ -61,6 +63,7 @@ UIのパーツを部品（コンポーネント）としてパーツの組み合
 
 ![](img/atomic_template.png)
 
+&nbsp;
 &nbsp;
 
 ### Lv5: ページ (Pages)

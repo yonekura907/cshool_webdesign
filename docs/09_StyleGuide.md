@@ -3,7 +3,7 @@
 
 ## カラー　Color
 
-![](img/styleguide_colorpallete.png)
+![](img/styleguide_color.png)
 
 &nbsp;
 
@@ -11,14 +11,14 @@
 
 最重要となるメインの一色です。ブランドカラーであったりアプリや画面の主要色を指します。プライマリーカラーのコントラストを変化させた色を補足に用意しておくとUIで使いやすくなります。
 
-![](img/styleguide_primary.png)
+
 
 &nbsp;
 
 ### セカンダリーカラー
 二番目に重要な色です。アクセントであったり、選択部分に使われます。セカンダリーカラーのコントラストを変化させた色を補足に用意しておくとUIで使いやすくなります。
 
-![](img/styleguide_secondary.png)
+
 
 &nbsp;
 
@@ -53,14 +53,6 @@
 * トラッキング
 * 行送り
 
-&nbsp;
-
-### 段落
-
-![](img/styleguide_typography2.png)
-
-* 行長
-* 行送り
 
 
 &nbsp;
@@ -91,13 +83,6 @@
 ## 余白　Spacing
 
 ![](img/styleguide_spacing.png)
-
-&nbsp;
-
-
-### 余白の種類
-
-![](img/styleguide_spacing2.png)
  
 
 
@@ -106,14 +91,12 @@
 
 
 
-## アイコン/画像　Icongraphy
+## アイコン　Icongraphy
 
-![](img/styleguide_icons.png)
+![](img/styleguide_icon.png)
 
 
 * [アイコン](13_Icon.md)
-* イラスト
-* 画像のトリミング
 
 
 &nbsp;
