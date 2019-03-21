@@ -3,6 +3,8 @@
 
 
 > ### Scrolling is a continuation; clicking is a decision.
+> スクロールは継続、クリックは決定
+> 
 >  — Joshua Porter
 
  

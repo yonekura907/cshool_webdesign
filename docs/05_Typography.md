@@ -74,17 +74,13 @@ HIGでは最小余白を8ポイント以上としています。スマートフ�
 &nbsp;
 &nbsp;
 
-
-&nbsp;
-&nbsp;
 
----
 
+## Webフォント
+インターネットの通信回線でユーザーにフォントデータをダウンロードさせます。環境に依存せずどのブラウザでも指定したフォントで表示することができます。
 
-
-
-## webフォント
-
+* [Google Fonts](https://fonts.google.com/)
+* [Type Kit](https://fonts.adobe.com/typekit)
 
 
 
